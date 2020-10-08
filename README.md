@@ -38,14 +38,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat-square&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobe-photoshop)
-
-
-
-<a href="https://github.com/ArtemVeremienko">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArtemVeremienko&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemVeremienko&theme=buefy&layout=compact" />
-</a>
-
+  
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -53,3 +46,9 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=telegram)](https://t.me/artem_veremienko)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0075B5)](https://www.linkedin.com/in/artem-veremienko/)
 [![Facebook](https://img.shields.io/badge/-Facebook-333333?style=for-the-badge&logo=facebook)](https://www.facebook.com/ArtemVeremienko)
+
+
+<a href="https://github.com/ArtemVeremienko">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArtemVeremienko&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemVeremienko&theme=buefy&layout=compact" />
+</a>
