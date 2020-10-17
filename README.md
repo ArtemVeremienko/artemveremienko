@@ -19,8 +19,12 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript&logoColor=007acc)
 - 🧰 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
+  ![Mobx](https://img.shields.io/badge/-MobX-333333?style=flat-square&logo=mobx)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat-square&logo=redux)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat-square&logo=vue.js)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat-square&logo=angular&logoColor=DD0031)
+  ![Gulp](https://img.shields.io/badge/-Gulp-333333?style=flat-square&logo=gulp)
+  ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat-square&logo=webpack)
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
   ![C](https://img.shields.io/badge/-C-333333?style=flat-square&logo=C&logoColor=00599C)
