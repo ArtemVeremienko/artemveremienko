@@ -33,6 +33,7 @@
 - 🛢 &nbsp;
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat-square&logo=sqlite)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
