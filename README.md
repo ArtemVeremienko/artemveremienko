@@ -28,7 +28,7 @@
   ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat-square&logo=webpack)
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=C&logoColor=00599C)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=PHP&logoColor=00599C)
   ![C](https://img.shields.io/badge/-C-333333?style=flat-square&logo=C&logoColor=00599C)
 - 🛢 &nbsp;
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat-square&logo=sqlite)
