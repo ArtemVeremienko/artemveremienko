@@ -1,6 +1,6 @@
 # `console.log('Hello World!')`
 
-## Hey there! I'm Artem Vereminko.
+## Hey there! I'm Artem Veremiienko.
 
 ### 👨🏻‍💻 &nbsp;About Me 
 
