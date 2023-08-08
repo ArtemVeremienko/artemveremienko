@@ -51,7 +51,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-[![Gmail](https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail)](mailto:temaspsxxx@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail)](mailto:veremiienkoartem@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=telegram)](https://t.me/artem_veremienko)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0075B5)](https://www.linkedin.com/in/artem-veremienko/)
 [![Facebook](https://img.shields.io/badge/-Facebook-333333?style=for-the-badge&logo=facebook)](https://www.facebook.com/ArtemVeremienko)
